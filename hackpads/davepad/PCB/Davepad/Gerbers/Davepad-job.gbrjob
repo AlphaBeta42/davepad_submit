@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "8.0.6-1.fc40"
     },
-    "CreationDate": "2024-10-26T10:37:46+11:00"
+    "CreationDate": "2024-10-26T10:43:42+11:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -32,39 +32,19 @@
   ],
   "FilesAttributes": [
     {
+      "Path": "Davepad-F_Cu.gbr",
+      "FileFunction": "Copper,L1,Top",
+      "FilePolarity": "Positive"
+    },
+    {
       "Path": "Davepad-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "Davepad-F_Paste.gbr",
-      "FileFunction": "SolderPaste,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "Davepad-B_Paste.gbr",
-      "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
       "Path": "Davepad-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
-    },
-    {
-      "Path": "Davepad-B_Silkscreen.gbr",
-      "FileFunction": "Legend,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "Davepad-F_Mask.gbr",
-      "FileFunction": "SolderMask,Top",
-      "FilePolarity": "Negative"
-    },
-    {
-      "Path": "Davepad-B_Mask.gbr",
-      "FileFunction": "SolderMask,Bot",
-      "FilePolarity": "Negative"
     },
     {
       "Path": "Davepad-Edge_Cuts.gbr",
